@@ -33,7 +33,7 @@ The Pick-up app is a tool for riders to schedule a car pick-up to their local de
 * D - Canceling an order
 
 ### Front End
-Please see our [front end repo](https://github.com/donellellis/PickUpApp) here for information on how it was built, technologies used, and installation instructions.
+Please see our [front end repo](https://github.com/donellellis/pickup-app-v2) here for information on how it was built, technologies used, and installation instructions.
 
 
 ### Back End
