@@ -4,12 +4,6 @@ const cors = require('cors')
 const Driver = require('./models/Driver')
 const Order = require('./models/Order')
 
-// prevents heroku from sleeping
-let http = require('http')
-setInterval(function() {
-    http.get('https://pickup-app-api-v2.herokuapp.com')
-}, 300000) // every 5 minutes (300000)
-
 // needed for environmental variables in frontend DE
 require('dotenv').config();
 
