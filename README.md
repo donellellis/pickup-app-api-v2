@@ -13,8 +13,7 @@ The Pick-up app is a tool for riders to schedule a car pick-up to their local de
 - Express
 - React (front end)
 - Node
-- HTML (front end)
-- CSS (front end)
+- SASS (front end)
 
 ## Our Approach
 
@@ -55,7 +54,7 @@ The back end also contains HTTP request routes which are used along with our fro
 7. Run NPM Run Start or nodemon
 
 ```
-git clone git@github.com:tishana/PickUpAppAPI.git
+git clone git@github.com:donellellis/pickup-app-api-v2.git
 cd PickUpAppAPI
 npm install
 code .
